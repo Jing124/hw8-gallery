@@ -1,1 +1,1 @@
-# hw8-gallery
+# hw8-image-gallery
