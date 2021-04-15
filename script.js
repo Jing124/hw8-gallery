@@ -1,4 +1,4 @@
-let currentSlideIndex = -1;
+let currentSlideIndex = 0;
 const slides = document.getElementsByClassName('mySlides');
 
 setInterval(() => {
